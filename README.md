@@ -26,6 +26,7 @@ http://t.me/freekelasgithub
 ### K
 ### L
 ### M
+  * Muhammad Jayadi Anwar [github/muhajaya](https://github.com/muhajaya) (Domisili : Bogor, Jawa Barat)
   * Muhammad Nabil Adani [Github/nabil48](https://github.com/nabil48) (Domisili : Jawa Timur)
 
 ### N
